@@ -1,0 +1,34 @@
+_repo: Jewel-MysteriesFrom-a-Dealer-s-Note-Book_39891
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39891-h/images/cover.png
+creator:
+  author:
+    agent_name: Pemberton, Max
+    alias: Pemberton, Sir Max
+    birthdate: 1863
+    deathdate: 1950
+    gutenberg_agent_id: '32059'
+    url: http://www.gutenberg.org/2009/agents/32059
+    wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
+description: ''
+gutenberg_issued: '2012-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Jewelry -- Collectors and collecting -- Fiction'
+- !lcsh 'Detective and mystery stories, English'
+tableOfContents: The opal of Carmalovitch -- The necklace of green diamonds -- The
+  comedy of the jewelled links -- Treasure of White Creek -- The accursed gems --
+  The watch and the scimitar -- The seven emeralds -- The pursuit of the topaz --
+  The ripening rubies -- My lady of the sapphires.
+title: Jewel Mysteries, from a Dealer's Note Book
+url: http://www.gutenberg.org/ebooks/39891
